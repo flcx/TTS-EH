@@ -1,0 +1,4 @@
+Regex replace GMNotes
+
+("GMNotes": "",)(?<body>(.*\r\n){18})(?<line>.*)(?<id>id=0BzeCHt4DkKC0TmNnS3BBR05EUGc)
+"GMNotes": "EH01",$+{body}$+{line}$+{id}
