@@ -98,7 +98,7 @@
 
 
 "Nickname": "Find Gate",
-"Nickname": "Find Gate" - Glamour,
+"Nickname": "Find Gate - Glamour",
 
 "Nickname": "Dread Curse",
 "Nickname": "Dread Curse - Incantation",
