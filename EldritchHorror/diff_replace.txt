@@ -1,0 +1,132 @@
+"Nickname": "Protective Totem - Magical, Relic",
+"Nickname": "Protective Totem - Item, Magical, Relic",
+
+
+"Nickname": "Death XIII",
+"Nickname": "Death XIII - Trinket, Tarot",
+
+"Nickname": "Flux Stabilizer",
+"Nickname": "Flux Stabilizer - Item",
+
+"Nickname": "The Moon XVIII",
+"Nickname": "The Moon XVIII - Trinket, Tarot",
+
+"Nickname": "Basil Elton",
+"Nickname": "Basil Elton - Ally, Character",
+
+"Nickname": "Walking the Ley Lines",
+"Nickname": "Walking the Ley Lines - Task",
+
+"Nickname": "Five of Pentacles",
+"Nickname": "Five of Pentacles - Trinket, Tarot",
+
+"Nickname": "Dimensional Study",
+"Nickname": "Dimensional Study - Task",
+
+"Nickname": "Bury Them Deep",
+"Nickname": "Bury Them Deep - Task",
+
+"Nickname": "Mythos Codex",
+"Nickname": "Mythos Codex - Item, Tome",
+
+"Nickname": "Unspeakable Research",
+"Nickname": "Unspeakable Research - Task",
+
+"Nickname": "Four of Cups",
+"Nickname": "Four of Cups - Trinket, Tarot",
+
+"Nickname": "Randolph Carter",
+"Nickname": "Randolph Carter - Ally, Character",
+
+"Nickname": "Ace of Swords",
+"Nickname": "Ace of Swords - Trinket, Tarot",
+
+"Nickname": "Miss Doyle",
+"Nickname": "Miss Doyle - Ally",
+
+"Nickname": "Debt - Condition",
+"Nickname": "Debt - Deal",
+
+
+"Nickname": "Seek the Truth",
+"Nickname": "Seek the Truth - Task",
+
+"Nickname": "Police Raid",
+"Nickname": "Police Raid - Service",
+
+"Nickname": "Dream Box",
+"Nickname": "Dream Box - Trinket, Magical",
+
+"Nickname": "Alchemical Concoction",
+"Nickname": "Alchemical Concoction - Item, Magical",
+
+"Nickname": "Hitman",
+"Nickname": "Hitman - Ally",
+
+"Nickname": "Forbidden Text",
+"Nickname": "Forbidden Text - Item, Tome",
+
+"Nickname": "Enchanted Bow",
+"Nickname": "Enchanted Bow - Item, Magical Weapon",
+
+"Nickname": "Willful Aristocrat",
+"Nickname": "Willful Aristocrat - Ally",
+
+"Nickname": "Arcanist",
+"Nickname": "Arcanist - Ally",
+
+"Nickname": "Otherworld Codex",
+"Nickname": "Otherworld Codex - Item, Tome",
+
+"Nickname": "Skeleton Keys",
+"Nickname": "Skeleton Keys - Trinket",
+
+"Nickname": "Divination",
+"Nickname": "Divination - Service",
+
+"Nickname": "Night Classes",
+"Nickname": "Night Classes - Service",
+
+"Nickname": "Camera",
+"Nickname": "Camera - Item",
+
+"Nickname": "Dream Diary",
+"Nickname": "Dream Diary - Item, Tome",
+
+"Nickname": "Occult Grimoire",
+"Nickname": "Occult Grimoire - Item, Tome",
+
+
+"Nickname": "Find Gate",
+"Nickname": "Find Gate" - Glamour,
+
+"Nickname": "Dread Curse",
+"Nickname": "Dread Curse - Incantation",
+
+"Nickname": "Summoning",
+"Nickname": "Summoning - Ritual",
+
+
+"Nickname": "Crux of Cykranosh",
+"Nickname": "Crux of Cykranosh - Item, Magical",
+
+"Nickname": "Hemisphere Map",
+"Nickname": "Hemisphere Map - Item",
+
+"Nickname": "Black Fan",
+"Nickname": "Black Fan - Item, Magical",
+
+"Nickname": "Black Book",
+"Nickname": "Black Book - Item, Magical",
+
+"Nickname": "True Magick",
+"Nickname": "True Magick - Item, Tome",
+
+"Nickname": "Elder Key",
+"Nickname": "Elder Key - Item, Tome",
+
+"Nickname": "Crystallizer of Dreams",
+"Nickname": "Crystallizer of Dreams - Item, Magical Teamwork",
+
+"Nickname": "Pentacle of Planes",
+"Nickname": "Pentacle of Planes - Item, Magical",
