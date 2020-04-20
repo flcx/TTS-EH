@@ -1,4 +1,10 @@
-Regex replace GMNotes
+Regex replace GMNotes:
 
 ("GMNotes": "",)(?<body>(.*\r\n){18})(?<line>.*)(?<id>id=0BzeCHt4DkKC0TmNnS3BBR05EUGc)
 "GMNotes": "EH01",$+{body}$+{line}$+{id}
+
+
+Regex match with prefix:
+
+(?<prefix>Glamour(.*\r\n)?(.*\r\n)?(.*\r\n)?( )*)("GMNotes": "",)(?<body>(.*\r\n){18}(.*\r\n)?(.*\r\n)?(.*\r\n)?)(?<line>.*)(?<id>0BzeCHt4DkKC0SHh3d3RZdTlxa0E)
+$+{prefix}"GMNotes": "EH04",$+{body}$+{line}$+{id}
